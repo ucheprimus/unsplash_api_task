@@ -40,7 +40,6 @@ router.post('/:id/likes', async (req, res) => {
   }
 });
 
-// ✅ ✅ ADD COMMENTS ROUTES BELOW
 
 // POST a new comment
 router.post('/:id/comments', async (req, res) => {
